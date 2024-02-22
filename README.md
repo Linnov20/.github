@@ -1,1 +1,0 @@
-Empowering People through Technology
