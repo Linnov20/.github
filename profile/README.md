@@ -23,7 +23,7 @@ Join us at Linnov as we embark on a journey to empower people through technology
 Linnov is a forward-thinking organization dedicated to creating technological solutions that improve the lives of individuals worldwide. We focus on developing user-friendly and accessible software applications that cater to the needs of people from all walks of life. Our mission is to leverage the power of technology to enhance daily experiences and make a positive impact on society.
 
 🌈 **How to Contribute**<!--**Contribution Guidelines**-->
-We believe in the power of collaboration and welcome contributions from the community. If you'd like to get involved, please check out our [Contribution Guidelines](CONTRIBUTING.md) to learn how you can contribute, submit bug reports, or suggest new features. We value your input and appreciate your support in making Linnov a thriving community-driven project.
+We believe in the power of collaboration and welcome contributions from the community. If you'd like to get involved, please contact us on our [Email](mailto:) to know how you can contribute, submit bug reports, or suggest new features. We value your input and appreciate your support in making Linnov a thriving community-driven project.
 
 <!--👩‍💻 **Useful Resources**
 To get started with Linnov and explore our projects, please refer to our [Documentation](https://linnov.github.io/docs), where you'll find detailed guides, tutorials, and API references. Join our vibrant community on [Discord](https://discord.gg/linnov) to connect with fellow developers, ask questions, and stay updated on the latest news and announcements.
